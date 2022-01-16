@@ -1,0 +1,49 @@
+input {
+  width: 90%;
+  text-align: center;
+  box-align: center;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #fff;
+  font-family: "Roboto", sans-serif;
+  font-size: 2vw;
+  outline: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 3%;
+}
+#btn{
+
+  width: 45%;
+  background-color: #4CAF50;
+  font-size: 2vw;
+  font-weight: bold;
+  padding: 2%;
+  margin-top: 5%;
+  border: 1px solid #ff4b2b;
+  border-radius: 20px;
+  cursor:pointer;
+  margin-bottom: 3%;
+
+}
+h2 {
+  font-size: 6vw;
+  font-weight: 800;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+}
+#contact-form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 50%;
+margin-left: 35%;
+}
+
+body {
+ background: rgba(45, 52, 54, 1) ;
+  justify-content: center;
+  width: 80%;
+} 
